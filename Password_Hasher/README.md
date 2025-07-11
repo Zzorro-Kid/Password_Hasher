@@ -23,7 +23,24 @@ A simple command-line password hashing tool. It allows to hash any input passwor
 ## 🚀 Running
 
   1. Clone or download this repository:
+     
+    git clone https://github.com/Zzorro-Kid/Password_Hasher.git
+     
   2. Navigate to the project directory:
-  3. Run the script to start in a terminal window:
+
+    cd Password_Hasher
+     
+  3. Run the script:
+
+    ./hasher
+
+
+## 🧪 Usage 
+
+<img width="374" height="92" alt="image" src="https://github.com/user-attachments/assets/16545e55-57de-45d7-b15f-f896cf568684" />
+
+
+
+     
 
 
